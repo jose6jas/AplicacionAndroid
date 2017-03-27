@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicacionAndroid</string>
+    <string name="Welcome">Bienvenido</string> //como es por default el español
+    <string name="Button">Entrar</string>
+</resources>
